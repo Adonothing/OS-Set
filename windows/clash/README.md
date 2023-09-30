@@ -18,6 +18,11 @@ git config --global https.proxy 'https://127.0.0.1:7890'
 
 完毕。
 
-# 配置文件
+## 配置文件
 
 &emsp;&emsp;有时候在网上下载配置文件失败。把配置文件导入到系统即可。常规-配置文件主目录-打开目录。profiles下xxx.yml即为你的配置文件，记住同时要复制list.yml文件。
+
+## 文件说明
+
+1. [profiles.zip](./profiles.zip)：profiles.zip：个人的配置文件。
+2. []()：。
